@@ -19,7 +19,7 @@ The device consists of three integrated subsystems:
 
 The prototype is functional and has been validated by the user on their own bicycle. Further improvements are planned (see [Future Work](#future-work)).
 
-![VeloBrake Assist Validation Footage](media/Concept/ATC_breaking_part.mp4) 
+![VeloBrake Assist Concept](media/Concept/ATC_breaking_part.gif) 
 ---
 
 ## Repository structure
