@@ -9,7 +9,7 @@
 
 ## Overview
 
-VeloBrake Assist is a custom-fit braking aid designed for a user with ectrodactyly of the left hand. The device enables safe, independent braking on a standard bicycle without requiring a full grip. It adapts the open-source [Project Caroline by Macu4](https://www.macu4.com) to the user's specific hand morphology and target bike.
+VeloBrake Assist is a custom-fit braking aid designed for a user with ectrodactyly of the left hand. The device enables safe, independent braking on a standard bicycle without requiring a full grip. It adapts the open-source [Project Caroline by Macu4]([https://www.macu4.com](https://www.hackahealth.ch/project-caroline-2021)) to the user's specific hand morphology and target bike.
 
 The device consists of three integrated subsystems:
 
@@ -108,8 +108,8 @@ The current prototype is functional but several improvements are identified for 
 
 ## Acknowledgements
 
-Special thanks to our TAs Dounia, and to our 3D printing coach Sébastien for their guidance throughout this project.  
-This project builds on [Project Caroline by Macu4](https://www.macu4.com) — an open-source assistive cycling device.
+Special thanks to our TAs Dounia and Aiden for their guidance throughout this project.  
+This project builds on [Project Caroline by Macu4]([https://www.macu4.com](https://www.hackahealth.ch/project-caroline-2021)) — an open-source assistive cycling device.
 
 ---
 
