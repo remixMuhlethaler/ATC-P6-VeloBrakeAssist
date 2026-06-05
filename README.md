@@ -34,11 +34,12 @@ ATC-P6-VeloBrakeAssist/
 ├── worksheets/
 │   ├── traceability_matrix_v0.1.xlsx
 │   ├── traceability_matrix_v0.2.xlsx
-│   └── traceability_matrix_v0.3.xlsx
+│   ├── traceability_matrix_v0.3.xlsx
+│   └── traceability_matrix_v0.4.xlsx
 │
 ├── cad/
 │   ├── fusion/                  # Native Fusion 360 source files (.f3d)
-│   ├── Decoupe_laser/           # File for Laser cut the MDF piece on the top (.dxf)
+│   ├── laser_cut/               # File for Laser cut the MDF piece on the top (.dxf)
 │   └── exports/                 # Print-ready files (.stl) and exchange files (.step)
 │
 ├── media/
