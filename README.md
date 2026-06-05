@@ -20,6 +20,11 @@ The device consists of three integrated subsystems:
 The prototype is functional and has been validated by the user on their own bicycle. Further improvements are planned (see [Future Work](#future-work)).
 
 ![VeloBrake Assist Concept](media/Concept/ATC_breaking_part.gif) 
+## Médias et Démonstrations
+
+Le fonctionnement du prototype ainsi que les phases de test sont documentés en vidéo.
+
+* [Accéder au dossier Google Drive complet (Vidéos & Photos)](https://drive.google.com/drive/folders/1Wf3XGNz-UpR_hRMOGoVsbd66ucjs_gCT?usp=sharing)
 ---
 
 ## Repository structure
