@@ -40,8 +40,7 @@ ATC-P6-VeloBrakeAssist/
 ├── cad/
 │   ├── fusion/                  # Native Fusion 360 source files (.f3d)
 │   ├── laser_cut/               # File for Laser cut the MDF piece on the top (.dxf)
-│   └── exports/                 # Print-ready files (.stl) and exchange files (.step)
-│
+│   └── exports/                 # Print-ready files (.stl)
 ├── media/
 │   ├── photos/                  # Prototype photos (design iterations + final)
 │   └── videos/                  # Verification & validation footage
