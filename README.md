@@ -20,11 +20,11 @@ The device consists of three integrated subsystems:
 The prototype is functional and has been validated by the user on their own bicycle. Further improvements are planned (see [Future Work](#future-work)).
 
 ![VeloBrake Assist Concept](media/Concept/ATC_breaking_part.gif) 
-## Médias et Démonstrations
+## Media and Demonstrations
 
-Le fonctionnement du prototype ainsi que les phases de test sont documentés en vidéo.
+The operation of the prototype as well as the testing phases are documented in video format.
 
-* [Accéder au dossier Google Drive complet (Vidéos & Photos)](https://drive.google.com/drive/folders/1Wf3XGNz-UpR_hRMOGoVsbd66ucjs_gCT?usp=sharing)
+* [Access the complete Google Drive folder (Videos & Photos)](https://drive.google.com/drive/folders/1Wf3XGNz-UpR_hRMOGoVsbd66ucjs_gCT?usp=sharing)
 ---
 
 ## Repository structure
@@ -75,7 +75,7 @@ The project followed the **V-model** engineering process:
 
 - **User requirements** (safety, comfort, portability & compatibility) were gathered through home visits and structured interviews.
 - **System requirements** were derived: braking system, hand-grip, attachment mechanism.
-- **Design & Prototypw**, each subsystem went through design, prototyping, verification (bench tests), and validation (on-bike tests with the user).
+- **Design & Prototype**, each subsystem went through design, prototyping, verification (bench tests), and validation (on-bike tests with the user).
 - Three iterations of the traceability matrix and risk assessment tracked requirement coverage throughout the semester.
 
 ---
